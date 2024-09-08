@@ -11,3 +11,6 @@ The sign.py and it's configuration files are the client
 
 
 The app.js file is the file that is the server. Be sure to change the server on the client (client host something.txt)
+# Why is it not running, I have all the modules installed!
+
+You are requied to make a directory called "audio" and put a mp3 called "connect.mp3".
