@@ -1,0 +1,4 @@
+window=False
+debug=True
+audio=True
+end
