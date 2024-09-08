@@ -6,3 +6,8 @@ pygame
 requests
 tkinter
 traceback (if its not included with python, I made this with an rpi 3 B+)
+# What are these files?
+The sign.py and it's configuration files are the client
+
+
+The app.js file is the file that is the server. Be sure to change the server on the client (client host something.txt)
