@@ -4,3 +4,5 @@ TailsSign is a program that can be used as a virtual sign! it has a config file 
 # Requirements
 pygame
 requests
+tkinter
+traceback (if its not included with python, I made this with an rpi 3 B+)
